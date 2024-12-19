@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Python cache (if any)
+__pycache__/
